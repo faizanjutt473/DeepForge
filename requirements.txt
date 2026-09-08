@@ -1,0 +1,5 @@
+Python 3.8+ (3.9–3.11 recommended)
+pip package manager
+torch>=2.0.0
+torchvision>=0.15.0
+pip install torch torchvision
